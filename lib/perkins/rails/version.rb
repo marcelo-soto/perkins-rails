@@ -1,5 +1,5 @@
 module Perkins
   module Rails
-    VERSION = "0.0.10"
+    VERSION = "4.0.0"
   end
 end
