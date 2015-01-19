@@ -1,6 +1,6 @@
 # Perkins::Rails
 
-TODO: Write a gem description
+Rails gem for https://github.com/carloselias/perkins
 
 ## Installation
 
@@ -20,7 +20,15 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+After install:
+```bash
+rails generate perkins:install
+```
+and configure using the file
+```bash
+app/assets/stylesheets/perkins_init.less
+```
+
 
 ## Contributing
 
