@@ -1,6 +1,6 @@
 # Perkins::Rails
 
-Rails gem for https://github.com/carloselias/perkins
+Rails gem for https://github.com/carloselias/perkins. Depends on `less-rails`.
 
 ## Installation
 
